@@ -7,7 +7,7 @@ import javax.swing.JFileChooser;
 /**
  * This class loads sequence data from a file.
  * @author manu
- *
+ *this is also new
  */
 
 public abstract class SequenceLoader {
