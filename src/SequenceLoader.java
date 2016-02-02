@@ -6,8 +6,13 @@ import javax.swing.JFileChooser;
 
 /**
  * This class loads sequence data from a file.
+<<<<<<< HEAD
  * @author manu
  *this is also new
+=======
+ * @author marek
+ *
+>>>>>>> origin/master
  */
 
 public abstract class SequenceLoader {
